@@ -4,7 +4,7 @@ Trabalho final de Arquitetura de Projetos
 
 # Descrição
 
-API criada com objetivo de autenticar e contorloar autorizações de usuarios cadastrados via Jason Web Token (JWT).
+API criada com objetivo de autenticar e controlar autorizações de usuarios cadastrados via Jason Web Token (JWT).
 
 # EndPoints realizados
 
@@ -44,7 +44,7 @@ Método GET MODERADO
 Método GET COMUM
 ![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/3504a085-dced-4eb1-936d-7beb866238b2)
 
-Usuário não cadastrado:
+Usuário não autenticado:
 ![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/207d1bff-2dc5-4069-a284-034fb1a62461)
 
 
