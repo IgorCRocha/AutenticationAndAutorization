@@ -10,7 +10,7 @@ API criada com objetivo de autenticar e contorloar autorizações de usuarios ca
 
 POST/login: localhost:8080/login
 
-GET/username/{token}: localhost:8080/username/{token}
+GET/username/{token}: token gerado ao realizar login.
 
 GET/user: localhost:8080/user
 
