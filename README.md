@@ -1,6 +1,24 @@
 # Autentication And Autorization
 Trabalho final de Arquitetura de Projetos
 
+
+Descrição
+API criada com objetivo de autenticar e contorloar autorizações de usuarios cadastrados via Jason Web Token (JWT).
+
+EndPoints realizados:
+
+POST/login: localhost:8080/login
+
+GET/username/{token}: localhost:8080/username/{token}
+
+GET/user: localhost:8080/user
+
+GET/admin: localhost:8080/admin
+
+GET/moderador: localhost:8080/moderador
+
+GET/comum: localhost:8080/comum
+
 Diagrama:
 ![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/090b16bf-4655-478d-855f-9f92bf5afe14)
 
