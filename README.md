@@ -1,7 +1,7 @@
-# AutenticationAndAutorization
+# Autentication And Autorization
+Trabalho final de Arquitetura de Projetos
 
-
-
+Prints do Insomnia da API em execusão:
 ![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/8986436f-8b79-4288-a1eb-9d02d35134d4)
 ![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/908c667f-6769-403c-be46-136a0727b1cc)
 ![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/67224377-2377-404d-a5a6-187df0d3cb15)
