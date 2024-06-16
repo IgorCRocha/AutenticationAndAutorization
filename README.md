@@ -2,7 +2,8 @@
 Trabalho final de Arquitetura de Projetos
 
 Diagrama:
-![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/46f5bcb2-8fba-4519-9d98-85fe4eb8ed0a)
+![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/090b16bf-4655-478d-855f-9f92bf5afe14)
+
 
 
 Prints do Insomnia da API em execusão:
