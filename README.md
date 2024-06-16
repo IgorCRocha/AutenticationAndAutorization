@@ -2,10 +2,11 @@
 Trabalho final de Arquitetura de Projetos
 
 
-Descrição
+# Descrição
+
 API criada com objetivo de autenticar e contorloar autorizações de usuarios cadastrados via Jason Web Token (JWT).
 
-EndPoints realizados:
+# EndPoints realizados
 
 POST/login: localhost:8080/login
 
@@ -19,12 +20,12 @@ GET/moderador: localhost:8080/moderador
 
 GET/comum: localhost:8080/comum
 
-Diagrama:
+# Diagrama:
 ![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/090b16bf-4655-478d-855f-9f92bf5afe14)
 
 
 
-Prints do Insomnia da API em execusão:
+# Prints do Insomnia da API em execusão:
 Método POST
 ![image](https://github.com/IgorCRocha/AutenticationAndAutorization/assets/125416569/8986436f-8b79-4288-a1eb-9d02d35134d4)
 
